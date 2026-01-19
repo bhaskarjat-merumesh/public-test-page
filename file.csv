@@ -2,4 +2,3 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9313646,https://test1.com/,http://www.phishtank.com/phish_detail.php?phish_id=9313646,2026-01-16T09:00:09+00:00,yes,2026-01-16T09:11:58+00:00,yes,Other
 9313644,https://test12.com/,http://www.phishtank.com/phish_detail.php?phish_id=9313644,2026-01-16T08:56:03+00:00,yes,2026-01-16T09:02:55+00:00,yes,Coinbase
 9313643,https://test13.com/,http://www.phishtank.com/phish_detail.php?phish_id=9313643,2026-01-16T08:51:42+00:00,yes,2026-01-16T09:02:55+00:00,yes,Microsoft
-9313637,https://test14.com/,http://www.phishtank.com/phish_detail.php?phish_id=9313637,2026-01-16T08:26:08+00:00,yes,2026-01-16T08:31:52+00:00,yes,Other
